@@ -2,7 +2,7 @@
   <div class="under-construction">
     <div class="background-image"></div>
     <div class="content">
-      <h1 class="headline">work in progress</h1>
+      <h1 class="headline">bleibholz</h1>
       <h2 class="subheadline">
         Unsere Seite befindet sich im Aufbau. Komm bald wieder!
       </h2>
@@ -52,8 +52,9 @@ export default {
 }
 
 .headline {
-  font-size: 5em;
+  font-size: 8em;
   margin-bottom: 10px;
+  font-family: 'Smooch', cursive;
 }
 
 .subheadline {
