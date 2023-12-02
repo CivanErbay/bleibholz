@@ -5,9 +5,9 @@
     <section>
       <h2>bleibholz</h2>
       <p>Julia Fusenig</p>
-      <p>Körnerstr.</p>
+      <!--      <p>Körnerstr.</p>
       <p>Telefon: Ihre Telefonnummer</p>
-      <p>E-Mail: Ihre E-Mail-Adresse</p>
+      <p>E-Mail: Ihre E-Mail-Adresse</p> -->
       <!--  <p>Umsatzsteuer-Identifikationsnummer: Ihre Umsatzsteuer-Identifikationsnummer</p> -->
     </section>
 
