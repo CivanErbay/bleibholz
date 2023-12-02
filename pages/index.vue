@@ -52,9 +52,30 @@ export default {
 }
 
 .headline {
-  font-size: 8em;
+  font-size: 6em;
   margin-bottom: 10px;
   font-family: 'Smooch', cursive;
+}
+
+/* Media query for screens 600px and smaller */
+@media only screen and (min-width: 600px) {
+  .headline {
+    font-size: 4em;
+  }
+}
+
+/* Media query for screens 768px and smaller */
+@media only screen and (min-width: 768px) {
+  .headline {
+    font-size: 5em;
+  }
+}
+
+/* Media query for screens 1024px and smaller */
+@media only screen and (min-width: 1024px) {
+  .headline {
+    font-size: 8em;
+  }
 }
 
 .subheadline {
